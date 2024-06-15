@@ -34,4 +34,23 @@ Task:
 - Defaukt of start: 0, Default of step: 1, stop: last
 
 ## Object Oriented Programming
+[code](class_eg.py)
 - It is a way to help programmers structure the  functionality of your program that would make sense to humans and allow computers to run it efficiently
+- Almost all programming languages use this concept
+- It uses "objects" to model real world entities
+
+### Key Concepts
+- Class
+    - A blueprint for creating objects.
+    - Defines a setof attributes or methods that the created objects (instances) will have
+    - Eg. blueprint provided while building a house, defining what an animal is
+
+- Object
+    - An instance of a class
+    - It represents a specific entity with attributes (data) and methods (functions) defined by a class
+    - Eg. A build house with many features (as functions), type of animal
+    - Eg. class_eg(Dog) [code](class_eg.py)
+    - Eg. BankAccount [code](bank_account.py)# 
+
+### 4 Pillars of OOP
+- Encapsulation, Abstraction, Inheritance, Polymorphism
